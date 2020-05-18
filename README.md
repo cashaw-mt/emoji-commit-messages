@@ -1,7 +1,9 @@
 # Emoji commit messages
 
-A fun paradigm to encourage cleaner commits.
+A fun paradigm to encourage cleaner commits. This is a CHANGE this is another CHANGE CHANGE!!  
 
+Change me again!
+This is MASTER
 ## Motivation
 
 Images (including emoji) help clarify what a given commit accomplishes,
